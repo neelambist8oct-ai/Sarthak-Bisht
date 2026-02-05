@@ -1,8 +1,4 @@
 ## Hi I am Sarthak
-🚀 Founder-minded Web Developer & Jr. MOD @ NGP
-🛠 Building SaaS & digital products with focus on clarity, scale, and real users
-📈 Helping early-stage brands gain first customers & traction
-🎥 Documenting the build-ship-learn journey in public
 # 💫 About Me:
 🚀 Founder-minded Web Developer & Jr. MOD @ NGP<br>🛠 Building SaaS & digital products with focus on clarity, scale, and real users<br>📈 Helping early-stage brands gain first customers & traction<br>🎥 Documenting the build-ship-learn journey in public
 
